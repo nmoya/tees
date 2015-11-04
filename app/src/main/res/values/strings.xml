@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tees</string>
+
+    <string name="action_favorites">Favorites</string>
+</resources>
